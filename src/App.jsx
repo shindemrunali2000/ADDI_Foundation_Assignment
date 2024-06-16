@@ -29,7 +29,7 @@ const siteProps = {
   email: "shindemrunali2000@gmail.com",
   gitHub: "https://github.com/shindemrunali2000",
   instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/mrunali-bharitkar-592118228/",
+  linkedIn: "https://www.linkedin.com/in/mrunali-bharitkar-592118228",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
