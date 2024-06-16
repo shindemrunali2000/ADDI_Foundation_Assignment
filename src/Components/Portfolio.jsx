@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Local Search Engine Web App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Successfully developed a local business search website using Python Django, enabling users to effortlessly find and explore businesses in their nearby areas. The project showcases my proficiency in web development and database management with Django framework.",
+    url: "https://github.com/shindemrunali2000/Local_Search_Engine.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Travel Agency Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a desktop application using Java that facilitates online hotel bookings, providing users with a seamless and user-friendly experience for managing their accommodation reservations. The project leverages Java's robust features to ensure efficient and reliable hotel booking.",
+    url: "https://github.com/shindemrunali2000/Travel_Agency_Management_Sys.git",
   },
   {
-    title: "My Resume Site",
+    title: "Weather Information Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a simple website using Django and weather APIs to check the weather details for location. Created a user-friendly interface that allows users to enter a location and instantly get updated weather information.",
+    url: "https://imaginative-kataifi-e8a0c3.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Atri App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Atri lab is a Framework for Developing Web Application. Developed and maintained web applications using the Atri Lab web framework, focusing on enhancing user experience through dynamic, responsive design and efficient backend integration",
+    url: "https://github.com/shindemrunali2000/Atri_App_Mrunali.git",
   },
 ];
 
